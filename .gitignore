@@ -60,3 +60,5 @@ scripts/translation/.language*.json
 !.claude/skills/
 .pnpm-store
 apps/edit-docs/output.zip
+test-results/
+playwright-report/
